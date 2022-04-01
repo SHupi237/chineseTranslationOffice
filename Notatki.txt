@@ -1,0 +1,9 @@
+Pomysły:
+-Zastosowanie zdjęć jak tła.Rzecz jasna różne dla każdej poszczególnej podstrony
+
+Technologe:
+-css
+-html
+-bootstrap
+-php ewentualnie
+
