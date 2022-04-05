@@ -1,0 +1,4 @@
+css-wszystkie style na zicher
+zrobić podstrony
+navbar-łamanie strony głównej,prawa strona
+i commit
